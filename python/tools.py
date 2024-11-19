@@ -25,6 +25,23 @@ class Tools (object) :
         requestHeader.append('CLIENT-IP:' + fakeIp)
         requestHeader.append('X-FORWARDED-FOR:' + fakeIp)
 
+        # Handle base64 encoded URLs
+        if url.startswith('=='):
+            try:
+                import base64
+                # Remove the == prefix and add proper padding if needed
+                url = url[2:]
+                padding = 4 - (len(url) % 4)
+                if padding != 4:
+                    url += '=' * padding
+                url = base64.b64decode(url).decode('utf-8')
+                # Ensure URL has a proper scheme
+                if not url.startswith(('http://', 'https://')):
+                    url = 'http://' + url
+            except Exception as e:
+                print(f"Error decoding URL: {str(e)}")
+                return {'code': 0, 'body': '', 'headers': {}}
+
         if postData == {} :
             request = urllib.request.Request(url)
         elif isinstance(postData, str) :
@@ -200,10 +217,30 @@ class Tools (object) :
         #     return 0
 
     def logger (self, txt, new = False) :
-        filePath = os.path.join(os.path.dirname(os.path.abspath(__file__)).replace('python', 'http'), 'log.txt')
-        if new :
-            typ = 'w'
-        else :
-            typ = 'a'
-        with open(filePath, typ) as f: 
-            f.write(time.strftime("%Y/%m/%d %H:%M:%S", time.localtime()) + ": " + txt + "\r\n")
+        try:
+            filePath = os.path.join(os.path.dirname(os.path.abspath(__file__)).replace('python', 'http'), 'log.txt')
+            if new :
+                typ = 'w'
+            else :
+                typ = 'a'
+            
+            # Ensure the text is properly encoded
+            try:
+                # Convert to string if not already
+                txt = str(txt)
+                # Try to encode as UTF-8 first
+                log_text = time.strftime("%Y/%m/%d %H:%M:%S", time.localtime()) + ": " + txt + "\r\n"
+                # Use surrogateescape to handle encoding errors
+                encoded_text = log_text.encode('utf-8', errors='surrogateescape').decode('utf-8', errors='replace')
+            except UnicodeError:
+                # If that fails, use a more aggressive replacement strategy
+                log_text = time.strftime("%Y/%m/%d %H:%M:%S", time.localtime()) + ": "
+                # Replace non-printable characters with their Unicode escape sequence
+                clean_txt = ''.join(c if c.isprintable() or c.isspace() else f'\\u{ord(c):04x}' for c in txt)
+                encoded_text = log_text + clean_txt + "\r\n"
+            
+            with open(filePath, typ, encoding='utf-8', errors='surrogateescape') as f:
+                f.write(encoded_text)
+                f.flush()  # Ensure it's written immediately
+        except Exception as e:
+            print(f"Error writing to log: {str(e)}")

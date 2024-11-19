@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+﻿#!/usr/bin/env python
+#-*- coding: utf-8 -*-
 
 import tools
 import db
@@ -48,9 +48,16 @@ class Iptv (object):
             """ % (self.DB.table)
         result = self.DB.query(sql)
 
-        with open(os.path.join(os.path.dirname(os.path.abspath(__file__)).replace('python', 'http'), 'tv.m3u'), 'w') as f:
+        output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)).replace('python', 'http'), 'tv.m3u')
+        with open(output_path, 'w', encoding='utf-8') as f:
             f.write("#EXTM3U\n")
             for item in result :
+                # Validate URL
+                url = item[3]
+                if not url.startswith(('http://', 'https://', 'rtmp://', 'rtsp://')):
+                    self.T.logger(f"跳过无效URL: {url}")
+                    continue
+
                 className = '其他频道'
                 if item[4] == 1 :
                     className = '中央频道'
@@ -63,8 +70,12 @@ class Iptv (object):
                 else :
                     className = '其他频道'
 
-                f.write("#EXTINF:-1, group-title=\"%s\", %s\n" % (className, item[1]))
-                f.write("%s\n" % (item[3]))
+                try:
+                    f.write("#EXTINF:-1, group-title=\"%s\", %s\n" % (className, item[1]))
+                    f.write("%s\n" % (url))
+                except UnicodeEncodeError as e:
+                    self.T.logger(f"写入频道 {item[1]} 时出现编码错误，跳过")
+                    continue
 
     def outJson (self) :
         self.T.logger("正在生成Json文件")
@@ -85,9 +96,14 @@ class Iptv (object):
         }
 
         for item in result :
+            url = item[3]
+            if not url.startswith(('http://', 'https://', 'rtmp://', 'rtsp://')):
+                self.T.logger(f"跳过无效URL: {url}")
+                continue
+
             tmp = {
                 'title': item[1],
-                'url': item[3]
+                'url': url
             }
             if item[4] == 1 :
                 fmtList['cctv'].append(tmp)
@@ -100,16 +116,12 @@ class Iptv (object):
             else :
                 fmtList['other'].append(tmp)
 
-        jsonStr = json.dumps(fmtList)
+        jsonStr = json.dumps(fmtList, ensure_ascii=False)
 
-        with open( os.path.join(os.path.dirname(os.path.abspath(__file__)).replace('python', 'http'), 'tv.json'), 'w') as f:
+        output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)).replace('python', 'http'), 'tv.json')
+        with open(output_path, 'w', encoding='utf-8') as f:
             f.write(jsonStr)
 
 if __name__ == '__main__':
     obj = Iptv()
     obj.run()
-
-
-
-
-

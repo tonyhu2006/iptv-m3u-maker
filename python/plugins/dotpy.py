@@ -6,6 +6,7 @@ import time
 import re
 import db
 import threading
+import os
 from .threads import ThreadPool
 
 class Source (object) :
@@ -15,8 +16,8 @@ class Source (object) :
         self.now = int(time.time() * 1000)
 
     def getSource (self) :
-        sourcePath = './plugins/dotpy_source'
-        with open(sourcePath, 'r') as f:
+        sourcePath = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'dotpy_source')
+        with open(sourcePath, 'r', encoding='utf-8') as f:
             lines = f.readlines()
             total = len(lines)
             threads = ThreadPool(20)

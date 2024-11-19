@@ -1,539 +1,359 @@
 #EXTM3U
-#EXTINF:-1, group-title="中央频道", CCTV-1
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210102.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-2
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203602.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-3
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203802.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-4
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266302.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-5
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-6
-http://112.50.243.8/PLTV/88888888/224/3221225804/1.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-7
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510002.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-8
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203902.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-9
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499402.m3u8
-#EXTINF:-1, group-title="中央频道", ﻿CCTV1
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000133.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-10
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203502.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-11
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204102.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-12
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202602.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-13
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204602.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-14
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204402.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-15
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205002.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-17
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204202.m3u8
-#EXTINF:-1, group-title="中央频道", CCTV-5+
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204502.m3u8
-#EXTINF:-1, group-title="中央频道", ﻿CCTV-1
-http://39.135.135.82:80/wh7f454c46tw2586129421_-1455745702/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225587/index.m3u8?icpid=88888888&RTS=1583531258&from=1&hms_devid=1011
-#EXTINF:-1, group-title="地方频道", 上海卫视
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225856/index.m3u8
-#EXTINF:-1, group-title="地方频道", 上海纪实
-http://39.134.65.87:80/wh7f454c46tw2587236182_1752686628/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=129
-#EXTINF:-1, group-title="地方频道", 云南卫视
-http://39.134.65.87:80/wh7f454c46tw2587714931_-574863334/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225636/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=129
-#EXTINF:-1, group-title="地方频道", 凤凰中文
-http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1, group-title="地方频道", 凤凰资讯
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1, group-title="地方频道", 北京卫视
-http://121.31.30.90:8085/ysten-business/live/hdbeijingstv/1.m3u8
-#EXTINF:-1, group-title="地方频道", 北京生活
-http://ivi.bupt.edu.cn/hls/btv7.m3u8
-#EXTINF:-1, group-title="地方频道", 北京纪实
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000311.m3u8
-#EXTINF:-1, group-title="地方频道", 吉林卫视
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000313.m3u8
-#EXTINF:-1, group-title="地方频道", 四川卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295002.m3u8
-#EXTINF:-1, group-title="地方频道", 天津卫视
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000149.m3u8
-#EXTINF:-1, group-title="地方频道", 宁夏卫视
-http://121.31.30.90:8085/ysten-business/live/ningxiastv/1.m3u8
-#EXTINF:-1, group-title="地方频道", 安徽卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298002.m3u8
-#EXTINF:-1, group-title="地方频道", 山东卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294802.m3u8
-#EXTINF:-1, group-title="地方频道", 山西卫视
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000054.m3u8
-#EXTINF:-1, group-title="地方频道", 广东体育
-http://pull.scphsd.com/live/f61eb2475ab2d916aa68da3b1b/playlist.m3u8
-#EXTINF:-1, group-title="地方频道", 广东公共
-http://nclive.grtn.cn/ggpd/sd/live.m3u8?ts
-#EXTINF:-1, group-title="地方频道", 广东卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292702.m3u8
-#EXTINF:-1, group-title="地方频道", 广东新闻
-http://nclive.grtn.cn/xwpd/sd/live.m3u8?ts
-#EXTINF:-1, group-title="地方频道", 广西卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294202.m3u8
-#EXTINF:-1, group-title="地方频道", 新疆卫视
-http://39.134.65.3:80/wh7f454c46tw2588291386_-362255696/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=11
-#EXTINF:-1, group-title="地方频道", 江苏卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295602.m3u8
-#EXTINF:-1, group-title="地方频道", 江西卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294102.m3u8
-#EXTINF:-1, group-title="地方频道", 河北卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293402.m3u8
-#EXTINF:-1, group-title="地方频道", 河南卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296102.m3u8
-#EXTINF:-1, group-title="地方频道", 浙江卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295502.m3u8
-#EXTINF:-1, group-title="地方频道", 海南三亚
-http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
-#EXTINF:-1, group-title="地方频道", 海南卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000291502.m3u8
-#EXTINF:-1, group-title="地方频道", 湖北卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294502.m3u8
-#EXTINF:-1, group-title="地方频道", 湖南公共
-http://phoneal.qing.mgtv.com/nn_live/nn_x64/cz02MmI1ZGFlMDI3MGY5YTgzOGFmNTkyYTQzMzkyYmYxZiZlcz0xNTgzNTYwMDI4JnV1aWQ9YjYwY2NiZTdjYzkyNmJkZWM2MTViMGY2ZDFhZjlmMTgtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9YWxfcGhvbmUz/HNGGMPP360.m3u8
-#EXTINF:-1, group-title="地方频道", 湖南卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296202.m3u8
-#EXTINF:-1, group-title="地方频道", 湖南国际
-http://phonews.qing.mgtv.com/nn_live/nn_x64/cz0xOWZiZjliNjdmMGU3MDk1NjllODcwNjI4MTc1YTFhYiZlcz0xNTgzNTYwMDI4JnV1aWQ9ODU5ZjlmNDQzZmM4Mjg3ZWM5ZWI1YzhhNDg3YjQ2NzYtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/HNGJMPP360.m3u8
-#EXTINF:-1, group-title="地方频道", 湖南娱乐
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/cz1hNWM3NjE5MTRhMDk4NGEzZWY4MjgyNDA4YmY2Yzg1ZCZlcz0xNTgzNTYwMDI5JnV1aWQ9ZTE5MWJkZWFiYTg1MGRjMDk2NWJiZWYyYTk5YmMyNTEtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZQ,,/HNYLMPP360.m3u8
-#EXTINF:-1, group-title="地方频道", 湖南经视
-http://phoneal.qing.mgtv.com/nn_live/nn_x64/cz1iOGI0MGVkZmQzZTIwODQ3MTYzOGNhMTgyZTAzNTNhZiZlcz0xNTgzNTYwMDI4JnV1aWQ9Zjg1MWVmOGZmNjYwNTk2ODEyYjliNGY3MWY3YWMzYzQtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9YWxfcGhvbmUz/HNJSMPP360.m3u8
-#EXTINF:-1, group-title="地方频道", 湖南都市
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/cz1mMDA3YjQyZWQ1NzAzNWU3OWRjNjcwMzIzN2YyOWRjNyZlcz0xNTgzNTYwMDI2JnV1aWQ9YTg1MDZmYjRmZWNkZDgxYTRmNDgyNWFmZDZhZjVkMjUtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZQ,,/HNDSMPP360.m3u8
-#EXTINF:-1, group-title="地方频道", 甘肃卫视
-http://121.31.30.90:8085/ysten-business/live/gansustv/1.m3u8
-#EXTINF:-1, group-title="地方频道", 西藏卫视
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000063.m3u8
-#EXTINF:-1, group-title="地方频道", 贵州卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293302.m3u8
-#EXTINF:-1, group-title="地方频道", 辽宁体育
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000028.m3u8
-#EXTINF:-1, group-title="地方频道", 辽宁公共
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000064.m3u8
-#EXTINF:-1, group-title="地方频道", 辽宁北方
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000030.m3u8
-#EXTINF:-1, group-title="地方频道", 辽宁卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281302.m3u8
-#EXTINF:-1, group-title="地方频道", 辽宁家政
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000215.m3u8
-#EXTINF:-1, group-title="地方频道", 辽宁生活
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000190.m3u8
-#EXTINF:-1, group-title="地方频道", 辽宁经济
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000188.m3u8
-#EXTINF:-1, group-title="地方频道", 辽宁都市
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000026.m3u8
-#EXTINF:-1, group-title="地方频道", 重庆卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297802.m3u8
-#EXTINF:-1, group-title="地方频道", 陕西公共
-http://stream.snrtv.com/sxtvs-5.m3u8
-#EXTINF:-1, group-title="地方频道", 陕西卫视
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000036.m3u8
-#EXTINF:-1, group-title="地方频道", 陕西新闻
-http://stream.snrtv.com/sxtvs-1.m3u8
-#EXTINF:-1, group-title="地方频道", 青海卫视
-http://121.31.30.90:8085/ysten-business/live/qinghaistv/1.m3u8
-#EXTINF:-1, group-title="地方频道", 内蒙古卫视
-http://121.31.30.90:8085/ysten-business/live/neimenggustv/1.m3u8
-#EXTINF:-1, group-title="地方频道", 凤凰资讯台
-http://112.50.243.8//PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1, group-title="地方频道", 湖南快乐购
-http://phonews.qing.mgtv.com/nn_live/nn_x64/cz0wNjk1YWVhYTFiNDJiZmFmYTkxZjI5NTI5OTgxNGE5ZCZlcz0xNTgzNTYwMDI3JnV1aWQ9MWJmMTYyMTJmMzU0YjdkZTEwMjliZmMxYzIyYjI0ZDUtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/KLGMPP360.m3u8
-#EXTINF:-1, group-title="地方频道", 湖南电视剧
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/cz1hODFmYjk0MjE3N2Y4NGEwZjAwMWRkMjM5ZTM2ZWYyNyZlcz0xNTgzNTYwMDI3JnV1aWQ9MzNjOWFkOWYwYjU2ZmFkNjc5ZTQ5NzVlMjYzZTk4MjUtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZQ,,/HNDSJMPP360.m3u8
-#EXTINF:-1, group-title="地方频道", 辽宁影视剧
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000027.m3u8
-#EXTINF:-1, group-title="地方频道", 香港開電視
-http://pull.scphsd.com/live/4a5e54978789269e2ee9de203ae9259b/playlist.m3u8
-#EXTINF:-1, group-title="地方频道", 黑龙江卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293902.m3u8
-#EXTINF:-1, group-title="地方频道", 辽宁教育青少
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000191.m3u8
-#EXTINF:-1, group-title="地方频道", 四川6星空购物
-http://scgctvshow.sctv.com/sdlive/sctv6/3.m3u8
-#EXTINF:-1, group-title="地方频道", 香港有線新聞台
-http://pull.scphsd.com/live/8921bf0329b1a5b171c1615fc/playlist.m3u8
-#EXTINF:-1, group-title="地方频道", 香港衛視HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1, group-title="地方频道", 广东少儿 TVS5
-http://nclive.grtn.cn/tvs5/sd/live.m3u8?ts
-#EXTINF:-1, group-title="地方频道", 广东影视 TVS4
-http://nclive.grtn.cn/tvs4/sd/live.m3u8?ts
-#EXTINF:-1, group-title="地方频道", 广东经视 TVS1
-http://nclive.grtn.cn/tvs1/sd/live.m3u8?ts
-#EXTINF:-1, group-title="地方频道", 大连1
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000132.m3u8
-#EXTINF:-1, group-title="地方频道", 大连2
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000002.m3u8
-#EXTINF:-1, group-title="地方频道", 大连3
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000003.m3u8
-#EXTINF:-1, group-title="地方频道", 大连4
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000004.m3u8
-#EXTINF:-1, group-title="地方频道", 大连5
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000005.m3u8
-#EXTINF:-1, group-title="地方频道", 大连6
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000006.m3u8
-#EXTINF:-1, group-title="地方频道", 大连7
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000007.m3u8
-#EXTINF:-1, group-title="地方频道", 徐州2
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1, group-title="地方频道", 东方卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292402.m3u8
-#EXTINF:-1, group-title="地方频道", 东方财经
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000066.m3u8
-#EXTINF:-1, group-title="地方频道", 大连导视
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000009.m3u8
-#EXTINF:-1, group-title="地方频道", 徐州-2
-http://stream1.huaihai.tv/jjsh/sd/live.m3u8
-#EXTINF:-1, group-title="地方频道", 淮安公共
-http://stream.habctv.com/hagg/sd/live.m3u8
-#EXTINF:-1, group-title="地方频道", 深圳卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292202.m3u8
-#EXTINF:-1, group-title="地方频道", 长沙女性
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/cz05OGNjZjA4ZmViZDM0NTc3ZDdhNjEwYzk2MGJhZGNkYSZlcz0xNTgzNTYwMDI3JnV1aWQ9Yzk0OWNlMmM5MTQ4NjdhZWYwN2Y0YTJjNDdmNjAwZjMtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZQ,,/CSNXMPP360.m3u8
-#EXTINF:-1, group-title="地方频道", 长沙政法
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/cz0yMTQyYzgzZjgzNTI1YzQ3ZGQ3MjdjNzY0ODA0NWM2ZSZlcz0xNTgzNTYwMDI3JnV1aWQ9MjdmMzBmYzU2MTI5ODc5MzU2MTJjNmQyZGE4NzNjNzgtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZQ,,/CSZFMPP360.m3u8
-#EXTINF:-1, group-title="地方频道", 长沙新闻
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/cz0zMTI3YWU1ZDNhMWEwZGZjNDI3ZjQ1MWJhZjRkYTY1ZCZlcz0xNTgzNTYwMDI3JnV1aWQ9OGE2OWYzZGE2YTMxMmUzMGY3NDEzOGVhZGVjZmI0YmUtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZQ,,/CSXWMPP360.m3u8
-#EXTINF:-1, group-title="地方频道", 深圳DV生活
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000206.m3u8
-#EXTINF:-1, group-title="地方频道", 武汉-1 新闻
-http://live.appwuhan.com/1tzb/sd/live.m3u8
-#EXTINF:-1, group-title="地方频道", 武汉-5 文体
-http://live.appwuhan.com/5tzb/sd/live.m3u8
-#EXTINF:-1, group-title="地方频道", 武汉-6 外语
-http://live.appwuhan.com/6tzb/sd/live.m3u8
-#EXTINF:-1, group-title="地方频道", 武汉-7 少儿
-http://live.appwuhan.com/7tzb/sd/live.m3u8
-#EXTINF:-1, group-title="地方频道", 武汉-2 电视剧
-http://live.appwuhan.com/2tzb/sd/live.m3u8
-#EXTINF:-1, group-title="地方频道", 苏州昆山新闻综合
-http://221.6.85.150:9000/live/ksxwzh_800/ksxwzh_800.m3u8
-#EXTINF:-1, group-title="地方频道", 苏州昆山社会生活
-http://221.6.85.150:9000/live/ksshsh_800/ksshsh_800.m3u8
-#EXTINF:-1, group-title="地方频道", 武汉-3 科技生活
-http://live.appwuhan.com/3tzb/sd/live.m3u8
-#EXTINF:-1, group-title="其他频道", 搏击
-http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
-#EXTINF:-1, group-title="其他频道", 汽摩
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000072.m3u8
-#EXTINF:-1, group-title="其他频道", 电影
-http://39.135.135.37:80/wh7f454c46tw2588615213_-1035451685/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=683
-#EXTINF:-1, group-title="其他频道", FOX
-http://pull.scphsd.com/live/bfab465968ec4ed2a15aaab773438f16/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", HBO
-http://pull.scphsd.com/live/8e19e709a883495292f808fc4aed86cd/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 中学生
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000082.m3u8
-#EXTINF:-1, group-title="其他频道", 未知1
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000131.m3u8
-#EXTINF:-1, group-title="其他频道", 老年福
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000210.m3u8
-#EXTINF:-1, group-title="其他频道", 茶频道
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/cz04MmNkOWM5NzUxMTVmOGU5Yzc4MTBiYzhkN2YzOTljNyZlcz0xNTgzNTYwMDI3JnV1aWQ9NGVhNGEwOGM1YmVkNDY2ZmNjNGJkODg4NzVlNGRlMWItNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZQ,,/CPDMPP360.m3u8
-#EXTINF:-1, group-title="其他频道", CGTN
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656802.m3u8
-#EXTINF:-1, group-title="其他频道", TVSN
-http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
-#EXTINF:-1, group-title="其他频道", 七彩戏剧
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000209.m3u8
-#EXTINF:-1, group-title="其他频道", 东南卫视
-https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292502.m3u8
-#EXTINF:-1, group-title="其他频道", 中教一套
-http://112.50.243.8/PLTV/88888888/224/3221225869/1.m3u8
-#EXTINF:-1, group-title="其他频道", 人物频道
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000264.m3u8
-#EXTINF:-1, group-title="其他频道", 优漫卡通
-http://39.134.65.74:80/wh7f454c46tw2588997493_937400034/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=127
-#EXTINF:-1, group-title="其他频道", 健康有约
-http://121.31.30.90:8085/ysten-business/live/ljiankangyouyue/1.m3u8
-#EXTINF:-1, group-title="其他频道", 先锋乒羽
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/cz0zZDBhNDQ4NmU1MzQyY2ZkMmViNGQ5ZTQ5YmZhZDYwYSZlcz0xNTgzNTYwMDI1JnV1aWQ9YjdiYmU3MDZjOTdlMWNiNmI2OTIzYjJhYjdkNDYxY2EtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZQ,,/XFPYMPP360.m3u8
-#EXTINF:-1, group-title="其他频道", 兵团卫视
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000189.m3u8
-#EXTINF:-1, group-title="其他频道", 军事评论
-http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
-#EXTINF:-1, group-title="其他频道", 军旅剧场
-http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
-#EXTINF:-1, group-title="其他频道", 农业致富
-http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
-#EXTINF:-1, group-title="其他频道", 动作电影
-http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
-#EXTINF:-1, group-title="其他频道", 南方卫视
-http://nclive.grtn.cn/tvs2/sd/live.m3u8?_ts
-#EXTINF:-1, group-title="其他频道", 博斯魅力
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1, group-title="其他频道", 卡库少儿
-http://112.50.243.8/PLTV/88888888/224/3221225871/1.m3u8
-#EXTINF:-1, group-title="其他频道", 卡酷少儿
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000258.m3u8
-#EXTINF:-1, group-title="其他频道", 卫生健康
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000316.m3u8
-#EXTINF:-1, group-title="其他频道", 古装剧场
-http://121.31.30.90:8085/ysten-business/live/guzhuangjc/1.m3u8
-#EXTINF:-1, group-title="其他频道", 哈哈炫动
-http://39.134.65.88:80/wh7f454c46tw2588703312_524951728/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=134
-#EXTINF:-1, group-title="其他频道", 天元围棋
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000205.m3u8
-#EXTINF:-1, group-title="其他频道", 女性时尚
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000069.m3u8
-#EXTINF:-1, group-title="其他频道", 安多卫视
-http://39.134.65.79:80/wh7f454c46tw2587371954_439813383/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=128
-#EXTINF:-1, group-title="其他频道", 家有购物
-http://39.134.65.85:80/wh7f454c46tw2586828805_-1536184355/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=130
-#EXTINF:-1, group-title="其他频道", 延边卫视
-http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
-#EXTINF:-1, group-title="其他频道", 彩民在线
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000200.m3u8
-#EXTINF:-1, group-title="其他频道", 快乐垂钓
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/cz1iMTAwYTNmNWQxYzQxMGZlMjU0NDJiNjE2M2RkNmMxOCZlcz0xNTgzNTYwMDI4JnV1aWQ9MzUwOTkxOGRhYjYwZTJkMmE5MzZlYzI2ZDM2N2E5ZGQtNzJmZTIwZDYmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZQ,,/KLCDMPP360.m3u8
-#EXTINF:-1, group-title="其他频道", 惊悚悬疑
-http://121.31.30.90:8085/ysten-business/live/jingsongxy/1.m3u8
-#EXTINF:-1, group-title="其他频道", 教育就业
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000077.m3u8
-#EXTINF:-1, group-title="其他频道", 文物宝库
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000204.m3u8
-#EXTINF:-1, group-title="其他频道", 新加坡5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1, group-title="其他频道", 新科动漫
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000203.m3u8
-#EXTINF:-1, group-title="其他频道", 旅游卫视
-http://121.31.30.90:8085/ysten-business/live/lvyoustv/1.m3u8
-#EXTINF:-1, group-title="其他频道", 明星大片
-http://121.31.30.90:8085/ysten-business/live/mingxingdp/1.m3u8
-#EXTINF:-1, group-title="其他频道", 東森洋片
-http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-#EXTINF:-1, group-title="其他频道", 東森電影
-http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1, group-title="其他频道", 梨园频道
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000067.m3u8
-#EXTINF:-1, group-title="其他频道", 武术世界
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000202.m3u8
-#EXTINF:-1, group-title="其他频道", 沉阳新闻
-http://lms.csytv.com/Live/122/live/livestream.m3u8
-#EXTINF:-1, group-title="其他频道", 法制天地
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000192.m3u8
-#EXTINF:-1, group-title="其他频道", 法治天地
-http://112.50.243.8/PLTV/88888888/224/3221226143/1.m3u8
-#EXTINF:-1, group-title="其他频道", 海外剧场
-http://121.31.30.90:8085/ysten-business/live/xiqumd/1.m3u8
-#EXTINF:-1, group-title="其他频道", 澳亞衛視
-http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1, group-title="其他频道", 澳門莲花
-http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
-#EXTINF:-1, group-title="其他频道", 澳門衛視
-http://stream.mastvnet.com/MSTV/SD/live.m3u8
-#EXTINF:-1, group-title="其他频道", 爱情喜剧
-http://121.31.30.90:8085/ysten-business/live/aiqingxj/1.m3u8
-#EXTINF:-1, group-title="其他频道", 留学世界
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000068.m3u8
-#EXTINF:-1, group-title="其他频道", 精品体育
-http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
-#EXTINF:-1, group-title="其他频道", 精品大剧
-http://121.31.30.90:8085/ysten-business/live/jdaju/1.m3u8
-#EXTINF:-1, group-title="其他频道", 精品电影
-http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
-#EXTINF:-1, group-title="其他频道", 精品记录
-http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
-#EXTINF:-1, group-title="其他频道", 美食天府
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000213.m3u8
-#EXTINF:-1, group-title="其他频道", 耀才財經
+#EXTINF:-1, group-title="地方频道", 香港耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 金牌综艺
-http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
-#EXTINF:-1, group-title="其他频道", 金色频道
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000212.m3u8
-#EXTINF:-1, group-title="其他频道", 金鹰卡通
-http://phonews.qing.mgtv.com/nn_live/nn_x64/cz03NDlmZjEyMDA5OWM1MWZjNWFmZjMwY2ZhMmEyY2I0MSZlcz0xNTgzNTU5OTE0JnV1aWQ9YmZhYTY2ODExYzNjMmIyMDBhNzI4ODAxOWY4ZDk3MTctMWE5OTdjZCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
-#EXTINF:-1, group-title="其他频道", 风尚购物
-http://39.134.65.67:80/wh7f454c46tw2587603616_-1834070851/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=126
-#EXTINF:-1, group-title="其他频道", 龍祥時代
-http://192.200.120.82:8080/ZZ_shidai/ZZ_shidai.m3u8
-#EXTINF:-1, group-title="其他频道", CETV1
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000256.m3u8
-#EXTINF:-1, group-title="其他频道", SETTV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
-#EXTINF:-1, group-title="其他频道", ViuTV
-http://pull.scphsd.com/live/cb43c2c79a1d5a68a14a/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 三立台灣台
-http://pull.scphsd.com/live/7b7034dfcd564364a423b0c4dd1eef50/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 三立新聞台
-http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:-1, group-title="其他频道", 三立都会台
-http://pull.scphsd.com/live/da94152d68954c04871dbf52064c6008/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 中天新聞台
-http://pull.scphsd.com/live/c4b37a2a70f54a4dt3a4b23n7b361d5/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 寰宇新聞台
-http://pull.scphsd.com/live/81af037c1c2743e7b2c58f958d405b22/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 新-8頻道
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1, group-title="其他频道", 新-U頻道
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
-#EXTINF:-1, group-title="其他频道", 東森新聞台
-http://pull.scphsd.com/live/2e249d3b2e071e87e39ba0b37fe0a830/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 緯來體育台
-http://pull.scphsd.com/live/0d47f13c1c49446eb2f1ce2119a81e0d/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 華納 TV
-http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1, group-title="其他频道", 迪士尼卡通
-http://pull.scphsd.com/live/f01e09a3195c4aca8e578540514634aa/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 非凡新聞台
-http://pull.scphsd.com/live/341480361f526bff12223a56b9d8c091/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 高尔夫频道
-http://nclive.grtn.cn/grfpd/sd/live.m3u8?ts
-#EXTINF:-1, group-title="其他频道", CGTN法语
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000230.m3u8
-#EXTINF:-1, group-title="其他频道", CGTN纪录
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000234.m3u8
-#EXTINF:-1, group-title="其他频道", CGTN葡语
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000232.m3u8
-#EXTINF:-1, group-title="其他频道", CGTN西语
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000233.m3u8
-#EXTINF:-1, group-title="其他频道", CGTN阿语
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000231.m3u8
-#EXTINF:-1, group-title="其他频道", TVBS()
-http://pull.scphsd.com/live/84abf69ccdac42ebbb6d60692192b495/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", TVB明珠台
-http://pull.scphsd.com/live/e3ad73s32c96305d5w6d5fdb/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", TVB翡翠台
-http://pull.scphsd.com/live/1btc9e83d80bbcgd9d98ac8b7/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", WHOHTV
-http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 中国气象频道
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000076.m3u8
-#EXTINF:-1, group-title="其他频道", 央视文化精品
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000071.m3u8
-#EXTINF:-1, group-title="其他频道", 央视电视指南
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E62C4E5U309EF010K778965A4ID620FE72PBM3233C4EV1044EZ33519WE66F22B3151&playtoken=ABCDEFGHI&programid=4200000207.m3u8
-#EXTINF:-1, group-title="其他频道", 好萊塢電影台
-http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1, group-title="其他频道", 寰宇新聞2台
-http://pull.scphsd.com/live/3a3542dd1d7f4d62b8b34eb64cfccdfe/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 港台電視32
-http://pull.scphsd.com/live/a1656ed5dabf7a886220a0db9fe530f2/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 澳門有線一台
-http://202.175.127.77/live/show/ch1/index.m3u8
-#EXTINF:-1, group-title="其他频道", 鳳凰衛視中文
-http://liveali.ifeng.com/live/FHZW.m3u8
-#EXTINF:-1, group-title="其他频道", 鳳凰衛視資訊
-http://liveali.ifeng.com/live/FHZX.m3u8
-#EXTINF:-1, group-title="其他频道", ABCNews
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-#EXTINF:-1, group-title="其他频道", BesTV超级
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
-#EXTINF:-1, group-title="其他频道", NewTV搏击
-http://112.50.243.8/PLTV/88888888/224/3221225895/1.m3u8
-#EXTINF:-1, group-title="其他频道", TVB J2台
-http://pull.scphsd.com/live/a7a142817f2aa2734ba1aa0c/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", TVBS新聞台
-http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:-1, group-title="其他频道", 澳門互動新聞台
-http://202.175.127.77/live/show/ch2/index.m3u8
-#EXTINF:-1, group-title="其他频道", France24
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
-#EXTINF:-1, group-title="其他频道", NewTV 搏击
-http://39.134.65.87:80/wh7f454c46tw2588729407_421044206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=129
-#EXTINF:-1, group-title="其他频道", NewTV 电竞
-http://39.134.65.82:80/wh7f454c46tw2587581253_-536062468/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=137
-#EXTINF:-1, group-title="其他频道", SBTPiaui
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", TVB無線新聞台
-http://pull.scphsd.com/live/f25b13221a3cc91a0b7621a71/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 希腊LYXNOC
-http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", BesTVlive
-http://117.156.28.56:80/wh7f454c46tw2351510685_1336797225/PLTV/88888888/224/3221225698/index.m3u8?icpid=88888888&RTS=1583531236&from=0&hms_devid=124,144
-#EXTINF:-1, group-title="其他频道", BuffaloTV
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", NewTV中国功夫
-http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
-#EXTINF:-1, group-title="其他频道", NewTV动画王国
-http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
-#EXTINF:-1, group-title="其他频道", NewTV潮妈辣婆
-http://112.50.243.8/PLTV/88888888/224/3221226107/1.m3u8
-#EXTINF:-1, group-title="其他频道", NewTV精品大剧
-http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
-#EXTINF:-1, group-title="其他频道", NewTV精品纪录
-http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
-#EXTINF:-1, group-title="其他频道", NewTV金牌综艺
-http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
-#EXTINF:-1, group-title="其他频道", Newtv精品电影
-http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1, group-title="其他频道", TVBS欢乐台()
-http://pull.scphsd.com/live/922ef4176d9142d6ba5ad74243249317/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", 日本NEWS241
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1, group-title="其他频道", 日本NEWS243
-https://n24-cdn-live.ntv.co.jp/ch01/Low.m3u8
-#EXTINF:-1, group-title="其他频道", NewTV 东北热剧
-http://39.135.135.68:80/wh7f454c46tw2589103905_-732405604/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=681
-#EXTINF:-1, group-title="其他频道", NewTV 中国功夫
-http://39.134.65.85:80/wh7f454c46tw2586908027_-1716107397/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=130
-#EXTINF:-1, group-title="其他频道", NewTV 军事评论
-http://39.134.65.3:80/wh7f454c46tw2588800930_956773057/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=11
-#EXTINF:-1, group-title="其他频道", NewTV 军旅剧场
-http://39.134.65.80:80/wh7f454c46tw2587705486_-1028291372/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=124
-#EXTINF:-1, group-title="其他频道", NewTV 农业致富
-http://39.134.65.81:80/wh7f454c46tw2587173815_602144874/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=124
-#EXTINF:-1, group-title="其他频道", NewTV 动画王国
-http://39.134.65.70:80/wh7f454c46tw2587864714_1541720100/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=135
-#EXTINF:-1, group-title="其他频道", NewTV 古装剧场
-http://39.134.65.84:80/wh7f454c46tw2587479580_-410549038/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=130
-#EXTINF:-1, group-title="其他频道", NewTV 家庭剧场
-http://39.134.65.70:80/wh7f454c46tw2587461720_-1817456457/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=135
-#EXTINF:-1, group-title="其他频道", NewTV 惊悚悬疑
-http://39.134.65.88:80/wh7f454c46tw2588889334_340148683/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=134
-#EXTINF:-1, group-title="其他频道", NewTV 明星大片
-http://39.134.65.70:80/wh7f454c46tw2588395642_-133606133/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=135
-#EXTINF:-1, group-title="其他频道", NewTV 欢乐剧场
-http://39.135.135.25:80/wh7f454c46tw2589472656_1941638946/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=672
-#EXTINF:-1, group-title="其他频道", NewTV 海外剧场
-http://39.134.65.76:80/wh7f454c46tw2589222723_451674982/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=131
-#EXTINF:-1, group-title="其他频道", NewTV 潮妈辣婆
-http://39.134.65.70:80/wh7f454c46tw2589657069_631779676/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=135
-#EXTINF:-1, group-title="其他频道", NewTV 炫舞未来
-http://39.134.65.80:80/wh7f454c46tw2588291575_-1134202517/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=124
-#EXTINF:-1, group-title="其他频道", NewTV 精品体育
-http://39.134.65.88:80/wh7f454c46tw2588451849_30147563/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=134
-#EXTINF:-1, group-title="其他频道", NewTV 精品大剧
-http://39.134.65.84:80/wh7f454c46tw2587923916_-1115151486/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=130
-#EXTINF:-1, group-title="其他频道", NewTV 超级体育
-http://39.134.65.67:80/wh7f454c46tw2589705482_577426939/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=126
-#EXTINF:-1, group-title="其他频道", NewTV 超级电影
-http://39.134.65.87:80/wh7f454c46tw2588319880_-1151393841/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=129
-#EXTINF:-1, group-title="其他频道", NewTV 超级综艺
-http://39.134.65.79:80/wh7f454c46tw2587143165_-1812768035/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=128
-#EXTINF:-1, group-title="其他频道", NewTV 金牌综艺
-http://39.135.135.87:80/wh7f454c46tw2588657802_-1449124946/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=1010
+#EXTINF:-1, group-title="其他频道", 印度
+http://204.107.27.38/live/3485.low.stream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", RTV
+http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
+#EXTINF:-1, group-title="其他频道", TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1, group-title="其他频道", TV8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1, group-title="其他频道", TVN
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1, group-title="其他频道", TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1, group-title="其他频道", RETV
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+#EXTINF:-1, group-title="其他频道", TVNZ
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1, group-title="其他频道", 30ATV
+http://30a-tv.com/my999.m3u8
+#EXTINF:-1, group-title="其他频道", FoxTV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", KeyTV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1, group-title="其他频道", MUZTV
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
+#EXTINF:-1, group-title="其他频道", Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1, group-title="其他频道", OneTV
+http://82.212.74.2:8000/live/7308.m3u8
+#EXTINF:-1, group-title="其他频道", Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", TVNet
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:-1, group-title="其他频道", TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1, group-title="其他频道", Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1, group-title="其他频道", HighTV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", News24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", TVINES
+http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
+#EXTINF:-1, group-title="其他频道", 俄罗斯MTV
+http://85.132.78.6:1935/live/muztv.stream/lihattv.m3u8
+#EXTINF:-1, group-title="其他频道", 花花公子蒙古
+http://spacetv.in/stream/WUQP6BVK17/56.m3u8
+#EXTINF:-1, group-title="其他频道", BadenTV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1, group-title="其他频道", Canale7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1, group-title="其他频道", KTVPlus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1, group-title="其他频道", TVCreta
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", TVTorun
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1, group-title="其他频道", ~7月24日~
+http://stream.dubstep.fm:80/256mp3
+#EXTINF:-1, group-title="其他频道", 希腊VOULI
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1, group-title="其他频道", 100%News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1, group-title="其他频道", AkudjiTV
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1, group-title="其他频道", E-Parana
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1, group-title="其他频道", RigaTV24
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", TROSoyuz
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", +FreeIPTV
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1, group-title="其他频道", DJingMain
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1, group-title="其他频道", ExtremaTV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", HimlenTV7
+http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", NewsmaxTV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1, group-title="其他频道", RedBullTV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1, group-title="其他频道", RetroHits
+http://149.56.183.178:8300/stream
+#EXTINF:-1, group-title="其他频道", SkyFolkTV
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1, group-title="其他频道", TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1, group-title="其他频道", telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1, group-title="其他频道", 泰国THAIPBS
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1, group-title="其他频道", 2001/2/3TV
+http://123tv.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1, group-title="其他频道", AlSharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", FunXHipHop
+http://icecast.omroep.nl/funx-hiphop-sb-mp3
+#EXTINF:-1, group-title="其他频道", Hot108JAMZ
+http://66.85.88.174:80/hot108
+#EXTINF:-1, group-title="其他频道", KTVAlArabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
 #EXTINF:-1, group-title="其他频道", OmroepWest
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", PinguinoTV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 #EXTINF:-1, group-title="其他频道", RBC(Opt-1)
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1, group-title="其他频道", TVB無線財經資訊台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1583530342~exp=1583616742~acl=/newslive/smil:mobile_finance.smil/*~hmac=8784842316ad08dc326b7a9f971d234a82be3adde70bee9989bf0581ef7e39b7
-#EXTINF:-1, group-title="其他频道", baby first
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1, group-title="其他频道", 印度NDTV7X24
-http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
-#EXTINF:-1, group-title="其他频道", NewTV 超级电视剧
-http://39.135.135.8:80/wh7f454c46tw2588750792_-1598529317/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=813
-#EXTINF:-1, group-title="其他频道", FOX MOVIES()
-http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1, group-title="其他频道", WDRFernsehen
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:-1, group-title="其他频道", 美国CGTN(Opt-1)
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1, group-title="其他频道", 美国CGTN(Opt-2)
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1, group-title="其他频道", LATINOSTvMarti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, group-title="其他频道", ParliamentTV(Opt-1)
-http://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
+#EXTINF:-1, group-title="其他频道", RBC(Opt-2)
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1, group-title="其他频道", RBC(Opt-3)
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1, group-title="其他频道", StarPeople
+http://2.139.144.101:8020/1
+#EXTINF:-1, group-title="其他频道", BeachTV-30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", ElektrikaTV
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", Eye95TV(US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:-1, group-title="其他频道", KTV1(Opt-1)
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", KTV2(Opt-2)
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", KTVAlMajlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", Noa4Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1, group-title="其他频道", PinguinoTV*
+http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
+#EXTINF:-1, group-title="其他频道", Charge!(Geo)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1, group-title="其他频道", Mir24(Opt-1)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", NewOrleansTV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", NiuLIVE[AAC]
+http://live-origin.us.niu.cl/niu_live.aac
+#EXTINF:-1, group-title="其他频道", Retro(Opt-1)
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", SharqiyaNews
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", TVTZgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1, group-title="其他频道", US-NewsmaxTV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1, group-title="其他频道", 92News(Opt-1)
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", =July.12.2018
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1, group-title="其他频道", DJingClassics
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:-1, group-title="其他频道", IonianChannel
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", TVPlusSuceava
+http://85.186.146.34:8080
+#EXTINF:-1, group-title="其他频道", 100%AutomotoTV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", AtlantaChannel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1, group-title="其他频道", CBSNews(Opt-2)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1, group-title="其他频道", CometTV(Opt-1)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1, group-title="其他频道", LitusTVSantaFe
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", DJingDancefloor
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1, group-title="其他频道", DeepHouseLounge
+http://198.15.94.34:8024/stream
+#EXTINF:-1, group-title="其他频道", Noa4Norderstedt
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1, group-title="其他频道", SimayeAzadi(EU)
+https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+#EXTINF:-1, group-title="其他频道", TVKujawy(Opt-1)
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1, group-title="其他频道", ThePowerStation
+http://5.63.151.52:7032/stream
+#EXTINF:-1, group-title="其他频道", DJingUnderground
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:-1, group-title="其他频道", FunXLatin[Opt-1]
+http://icecast.omroep.nl/funx-latin-bb-mp3
+#EXTINF:-1, group-title="其他频道", FunXLatin[Opt-2]
+http://icecast.omroep.nl/funx-latin-sb-mp3
+#EXTINF:-1, group-title="其他频道", ShansonTV(Opt-1)
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", ShansonTV(Opt-2)
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1, group-title="其他频道", TivikomUlan-Udje
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1, group-title="其他频道", FirstMusic(Opt-1)
+http://rtmp.one.by:2300/
+#EXTINF:-1, group-title="其他频道", FirstMusic(Opt-2)
+http://rtmp.one.by:1300/
+#EXTINF:-1, group-title="其他频道", FirstMusic(Opt-3)
+http://rtmp.one.by:1200
+#EXTINF:-1, group-title="其他频道", Astrakhan24(Opt-2)
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1, group-title="其他频道", BeachTV-PanamaCity
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1, group-title="其他频道", DesiChannel(Opt-1)
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", FunXDenHaag[Opt-1]
+http://icecast.omroep.nl/funx-denhaag-bb-mp3
+#EXTINF:-1, group-title="其他频道", FunXDenHaag[Opt-2]
+http://icecast.omroep.nl/funx-denhaag-sb-mp3
+#EXTINF:-1, group-title="其他频道", KOMO4News(Seattle)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1, group-title="其他频道", TheShoppingChannel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1, group-title="其他频道", ArribaColombiaCajica
+http://cdn.instream.audio:9137/stream
+#EXTINF:-1, group-title="其他频道", FR-France24(English)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1, group-title="其他频道", BeachTV-PawleysIsland
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", BarrancabermejaVirtual
+http://stream1.305stream.com:8240/;
 #EXTINF:-1, group-title="其他频道", HouseofRepresentatives
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1, group-title="其他频道", 加拿大-CanalSavoir(法语)480P
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:-1, group-title="其他频道", 1431AMThessaloniki[Opt-1]
+http://155.207.18.114:8000/1431med
+#EXTINF:-1, group-title="其他频道", 1431AMThessaloniki[Opt-2]
+http://155.207.18.114:8000/1431ogg
+#EXTINF:-1, group-title="其他频道", DistrictofColumbiaNetwork
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1, group-title="其他频道", AmbientSleepingPill[Opt-1]
+http://163.172.169.217:80/asp-s
+#EXTINF:-1, group-title="其他频道", AmbientSleepingPill[Opt-2]
+http://163.172.169.217:80/asp-h
+#EXTINF:-1, group-title="其他频道", DanceWave!-RetroHungary[Opt-2]
+http://retro.dancewave.online/retrodance.ogg
+#EXTINF:-1, group-title="其他频道", CooperativaUniversitariaAsuncion
+http://200.108.136.94:8000/envivo
+#EXTINF:-1, group-title="广播频道", ByteFM
+http://bytefm.cast.addradio.de/bytefm/main/mid/stream.mp3
+#EXTINF:-1, group-title="广播频道", BFMSport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+#EXTINF:-1, group-title="广播频道", RTLRadio
+http://sc-rtllive.newmedia.lu/;stream.mp3
+#EXTINF:-1, group-title="广播频道", 51RadioTV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1, group-title="广播频道", CoolRadio
+http://176.9.30.66:80/cool64
+#EXTINF:-1, group-title="广播频道", TottoRadio
+http://stream.exeamedia.com/tottorelay
+#EXTINF:-1, group-title="广播频道", rockXradio
+http://158.69.227.214:8000/stream
+#EXTINF:-1, group-title="广播频道", BFMBusiness
+http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
+#EXTINF:-1, group-title="广播频道", RadioJahani
+http://shoutcast.wrn.org:8025/vor
+#EXTINF:-1, group-title="广播频道", ITURadioRock
+http://160.75.86.29:8088/stream/1/
+#EXTINF:-1, group-title="广播频道", Antena1FM94.7
+http://5.135.83.159:80/stream2
+#EXTINF:-1, group-title="广播频道", RadioBanovina
+http://136.243.21.140:9998/banovina
+#EXTINF:-1, group-title="广播频道", RadioIglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1, group-title="广播频道", RadioParadise
+http://stream-uk1.radioparadise.com/mp3-192
+#EXTINF:-1, group-title="广播频道", AudioNoirRadio
+http://198.245.61.123:8000/noir
+#EXTINF:-1, group-title="广播频道", Eldoradio105FM
+http://sc-eldolive.newmedia.lu/;
+#EXTINF:-1, group-title="广播频道", PulsRadioDance
+http://213.251.190.165:80/pulsHD.mp3
+#EXTINF:-1, group-title="广播频道", MondoBongoRadio
+http://5.63.151.52:7082/stream
+#EXTINF:-1, group-title="广播频道", IslandVibesRadio
+http://74.50.122.103:8982/;stream
+#EXTINF:-1, group-title="广播频道", MaximaFM87.9Ibia
+http://server01.ouvir.radio.br:8024/stream
+#EXTINF:-1, group-title="广播频道", PazFM89.5Goiania
+http://digital.umhost.com.br:9978/;
+#EXTINF:-1, group-title="广播频道", ABradio.cz-Blanik
+http://ice.abradio.cz/blanikcz128.mp3
+#EXTINF:-1, group-title="广播频道", Chroma98.5FMLamia
+http://xroma985.live24.gr/xroma985
+#EXTINF:-1, group-title="广播频道", CultRadioA-Go-Go!
+http://s10.voscast.com:8502/;stream.mp3
+#EXTINF:-1, group-title="广播频道", ABradio.cz-Pohadka
+http://ice3.abradio.cz/pohadka128.mp3
+#EXTINF:-1, group-title="广播频道", ABradio.cz-Povidka
+http://ice3.abradio.cz/povidka128.mp3
+#EXTINF:-1, group-title="广播频道", Heart106.2FMLondon
+http://media-sov.musicradio.com:80/HeartLondonMP3
+#EXTINF:-1, group-title="广播频道", ITURadioJazz/Blues
+http://160.75.86.29:8088/stream/3/
+#EXTINF:-1, group-title="广播频道", ABradio.cz-Chillout
+http://mp3stream4.abradio.cz/chillout128.mp3
+#EXTINF:-1, group-title="广播频道", AvantiFM107.6Larisa
+http://avantifm.live24.gr:80/avantifm
+#EXTINF:-1, group-title="广播频道", BritishSixtiesRadio
+http://5.63.151.52:7070/stream
+#EXTINF:-1, group-title="广播频道", Capital95.8FMLondon
+http://media-sov.musicradio.com:80/CapitalMP3
+#EXTINF:-1, group-title="广播频道", CvsRadio1-ReggaeJam
+http://74.50.122.103:9128/;stream
+#EXTINF:-1, group-title="广播频道", ABradio.cz-Relax-Sea
+http://ice6.abradio.cz/relax-sea128.mp3
+#EXTINF:-1, group-title="广播频道", ABradio.cz-ShadowBox
+http://ice3.abradio.cz/shadowbox128.mp3
+#EXTINF:-1, group-title="广播频道", RadioTeleBoston(USA)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1, group-title="广播频道", ABradio.cz-OldiesRock
+http://mp3stream4.abradio.cz/oldiesrock128.mp3
+#EXTINF:-1, group-title="广播频道", ABradio.cz-Relax-Fire
+http://ice6.abradio.cz/relax-fire128.mp3
+#EXTINF:-1, group-title="广播频道", BleFM93.1Thessaloniki
+http://radio.lancom.gr:8004/stream1
+#EXTINF:-1, group-title="广播频道", Horror+HalloweenRadio
+http://s2.voscast.com:11034/;stream.mp3
+#EXTINF:-1, group-title="广播频道", ABradio.cz-Alternative
+http://ice3.abradio.cz/alternative128.mp3
+#EXTINF:-1, group-title="广播频道", ABradio.cz-OldiesRadio
+http://ice.abradio.cz/oldiesradio128.mp3
+#EXTINF:-1, group-title="广播频道", GalGalatz91.8FMTelAviv
+http://glzwizzlv.bynetcdn.com/glz_mp3
+#EXTINF:-1, group-title="广播频道", HarboroughFM102.3[AAC]
+http://edge-audio-03-gos2.sharp-stream.com:80/harboroughfm.aac
+#EXTINF:-1, group-title="广播频道", SawtElMada92.4FMBeirut
+http://audiostreaming.itworkscdn.com:9018/;
+#EXTINF:-1, group-title="广播频道", UOCRadio96.7FMHeraklion
+http://147.52.178.164:8000/uoc_128.mp3
+#EXTINF:-1, group-title="广播频道", CuacFM103.4FMCoruna[AAC]
+http://streaming.cuacfm.org:80/cuacfm.aac
+#EXTINF:-1, group-title="广播频道", RadyoMuzik97.6FMIstanbul
+http://37.247.100.118/stream/68/
+#EXTINF:-1, group-title="广播频道", RadioMorena640AMGuayaquil
+http://74.50.122.103:9388/;stream
+#EXTINF:-1, group-title="广播频道", RadioFestiva100.9FMCopiapo
+http://s6.jcwebnew.com:8070/;
+#EXTINF:-1, group-title="广播频道", RadyoTrafik104.2FMIstanbul
+http://37.247.100.118/stream/157/
+#EXTINF:-1, group-title="广播频道", ABradio.cz-Relax-Thunder+Rain
+http://ice6.abradio.cz/relax-thunder-rain128.mp3
+#EXTINF:-1, group-title="广播频道", RadioTiempo96.1FMBarranquilla
+http://i50.letio.com/9100.aac?type=.flv?type=.flv
+#EXTINF:-1, group-title="广播频道", EstereoClase92.9FMSanPedroSula
+http://74.50.122.103:9434/;stream
+#EXTINF:-1, group-title="广播频道", GoldiesRadio107.9FMSint-Niklaas
+http://5.63.151.52:7064/stream
+#EXTINF:-1, group-title="广播频道", LaPoderosa107.7FMAguascalientes
+http://201.159.48.105:2871/
+#EXTINF:-1, group-title="广播频道", RadyoSpor107.2FMIstanbul[Opt-1]
+http://37.247.100.118/stream/70/
+#EXTINF:-1, group-title="广播频道", PopularStereo105.6FMBarranquilla
+http://radio30.virtualtronics.com:8192/stream/1/
